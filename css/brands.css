@@ -64,7 +64,9 @@ width: 30%;
 }
 
 .content-title {
- margin-bottom: 15px;
+ margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: bold;
 }
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
