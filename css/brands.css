@@ -29,7 +29,7 @@
  /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 .button, button {
-  font-size: 1.2em;
+  font-size: 0.6em;
 }     
 } 
 }
