@@ -51,6 +51,7 @@
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #F452FF;
+  color: #ffffff;
 }
 
 /* Style the tab content */
@@ -93,8 +94,8 @@ button {
 button:hover,
 .button:focus {
   color: #212121;
-  border-color: #888;
-  outline: #000000 solid 2px
+  border-color: #;
+  outline: #000000 solid 1px
 }
 .button.button-primary {
   color: #fff;
