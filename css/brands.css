@@ -36,7 +36,7 @@
 /* Style the buttons that are used to open the tab content */
 .tab button {
   background-color: inherit;
-  border: none;
+  border: solid 1px #000000;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
@@ -89,7 +89,7 @@ button:hover,
 .button:focus {
   color: #212121;
   border-color: #888;
-  outline: #ffffff solid 3px
+  outline: #000000 solid 2px
 }
 .button.button-primary {
   color: #fff;
