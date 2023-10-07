@@ -26,6 +26,37 @@
 
 */
 
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+ .button, button {
+  font-size: 1.2vw;
+}     
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+ .button, button {
+  font-size: 1.2vw;
+} 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+ .button, button {
+  font-size: 1.2vw;
+} 
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+ .button, button {
+  font-size: 1.2vw;
+} 
+} 
+
  /* Style the tab */
 .tab {
   overflow: hidden;
