@@ -30,13 +30,12 @@
 .tab {
   overflow: hidden;
   border: 0px solid #ccc;
-  background-color: #d911c3;
+  
 }
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
   background-color: inherit;
-  float: left;
   border: none;
   outline: none;
   cursor: pointer;
@@ -63,7 +62,7 @@
 } 
 
 button.tablinks {
-width: 100px;
+width: 150px;
 }
 
 /* Buttons
