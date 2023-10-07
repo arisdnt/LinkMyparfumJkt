@@ -46,6 +46,7 @@
 /* Change background color of buttons on hover */
 .tab button:hover {
   background-color: #F452FF;
+  color: #ffffff;
 }
 
 /* Create an active/current tablink class */
