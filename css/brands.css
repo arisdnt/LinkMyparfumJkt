@@ -159,6 +159,7 @@ button:hover,
 
 /* Default (this is great for your own brand color!) */
 .button.button-default {
+ font-size:12px;
   background-image: linear-gradient(to bottom, #F452FF, #832BC1);
   text-align: justify;
   color: #ffffff;
