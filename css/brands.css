@@ -32,28 +32,28 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
  .button, button {
-  font-size: 1.2vw;
+  font-size: 0.6em;
 }     
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
  .button, button {
-  font-size: 1.2vw;
+  font-size: 0.6em;
 } 
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
  .button, button {
-  font-size: 1.2vw;
+  font-size: 0.6em;
 } 
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
  .button, button {
-  font-size: 1.2vw;
+  font-size: 0.6em;
 } 
 } 
 
