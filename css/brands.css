@@ -27,7 +27,12 @@
 */
 
  /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {...}
+@media only screen and (max-width: 600px) {
+.button, button {
+  font-size: 1.2em;
+}     
+} 
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
@@ -111,7 +116,7 @@ button {
   height: 100%;
   text-align: center;
   vertical-align: middle;
-  font-size: 3.2vw;
+  
   width: 92%;
   font-weight: 700;
   line-height: 20px;
