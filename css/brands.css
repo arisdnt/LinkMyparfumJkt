@@ -62,7 +62,7 @@
   border-top: none;
 } 
 
-button .tablinks {
+button.tablinks {
 width: 100px;
 }
 
