@@ -393,6 +393,8 @@ button:hover,
 
 /* Facebook Messenger */
 .button.button-messenger {
+  letter-spacing: 15px;
+  font-size: 20px;
   color: #ffffff;
   background-image: linear-gradient(
     25deg,
