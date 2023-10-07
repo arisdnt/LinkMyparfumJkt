@@ -98,7 +98,8 @@
 } 
 
 button.tablinks {
-width: 30%;
+ font-size:13px; 
+ width: 30%;
 }
 
 .content-title {
