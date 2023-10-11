@@ -607,6 +607,8 @@ button:hover,
  text-align: justify;
   color: #ffffff;
   background-color: #201ADB;
+ background-image: linear-gradient(to right bottom, #134390, #4061a5, #6480b9, #88a0cc, #aec1df);
+ 
 }
 .button.button-ko-fi:hover,
 .button.button-ko-fi:focus {
