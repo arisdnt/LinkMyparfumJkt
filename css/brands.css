@@ -320,6 +320,8 @@ button:hover,
 
 /* Cash App */
 .button.button-cash-app {
+  font-size: 13px;
+  text-align: justify;
   color: #ffffff;
   background-image: linear-gradient(to bottom, #00d64b, #00c244);
 }
